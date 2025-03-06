@@ -15,7 +15,7 @@ with st.sidebar:
     page = st.radio(
         "Navigate:",
         ["About the App", "AI YouTube Learning Guide"],
-        index=0  # Default to "About the App"
+        index=1  # Default to "About the App"
     )
 
 # About the App Page
